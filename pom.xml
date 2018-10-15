@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sap.cc</groupId>
-	<artifactId>bulletinboard-ads</artifactId>
+	<artifactId>meeting-room-assistant</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>bulletinboard-ads</name>
+	<name>meeting-room-assistant</name>
 	<description>Cloud Curriculum: Advertisement Service</description>
 
 	<properties>
